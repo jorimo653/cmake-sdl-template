@@ -1,0 +1,3 @@
+/Users/jrm/Dev/tu/cmake-sdl-template/bin/CMakeFiles/cmake_sdl_template.dir
+/Users/jrm/Dev/tu/cmake-sdl-template/bin/CMakeFiles/edit_cache.dir
+/Users/jrm/Dev/tu/cmake-sdl-template/bin/CMakeFiles/rebuild_cache.dir
